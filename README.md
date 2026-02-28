@@ -35,15 +35,6 @@ I'm a QA professional with 5+ years of experience building robust test automatio
 - Mentor teams on automation best practices and quality standards
 - Leverage AI tools to optimize test design and accelerate debugging
 
-## 🚀 Current Focus 🚀
-
-- Transitioning into AI/ML Quality Engineering
-- Exploring AI model testing and validation methodologies
-- Building intelligent test automation solutions
-- Contributing to open-source testing tools
-
-
-
 
 ## 📫 View my Portfolio & Let's Connect
 
@@ -52,6 +43,14 @@ I'm a QA professional with 5+ years of experience building robust test automatio
 - **LinkedIn:** [linkedin.com/in/ayodamola-oyegbemi](https://linkedin.com/in/ayodamola-oyegbemi)
 - Open to global & remote opportunities
 
+
+## 🚀 Current Focus 🚀
+
+- Transitioning into AI/ML Quality Engineering
+- Exploring AI model testing and validation methodologies
+- Building intelligent test automation solutions
+- Contributing to open-source testing tools
+  
 
 ## 🤝 Open to Collaboration
 
