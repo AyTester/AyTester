@@ -42,12 +42,16 @@ I'm a QA professional with 5+ years of experience building robust test automatio
 - Building intelligent test automation solutions
 - Contributing to open-source testing tools
 
-## 📫 Let's Connect
 
+
+
+## 📫 View my Portfolio & Let's Connect
+
+- **Portfolio:** [View My Work](https://drive.google.com/drive/folders/1end_H-9mjQAWe9Jkn27P9wvjw4VH94cy?usp=sharing)
 - **Email:** oyegbemiayodamola@gmail.com
 - **LinkedIn:** [linkedin.com/in/ayodamola-oyegbemi](https://linkedin.com/in/ayodamola-oyegbemi)
-- Open to global remote opportunities
-- **Portfolio:** [View My Work](https://drive.google.com/drive/folders/1end_H-9mjQAWe9Jkn27P9wvjw4VH94cy?usp=sharing)
+- Open to global & remote opportunities
+
 
 ## 🤝 Open to Collaboration
 
