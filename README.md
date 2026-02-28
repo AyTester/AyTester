@@ -35,7 +35,7 @@ I'm a QA professional with 5+ years of experience building robust test automatio
 - Mentor teams on automation best practices and quality standards
 - Leverage AI tools to optimize test design and accelerate debugging
 
-## 🚀 Current Focus
+## 🚀 Current Focus 🚀
 
 - Transitioning into AI/ML Quality Engineering
 - Exploring AI model testing and validation methodologies
@@ -46,7 +46,7 @@ I'm a QA professional with 5+ years of experience building robust test automatio
 
 - **Email:** oyegbemiayodamola@gmail.com
 - **LinkedIn:** [linkedin.com/in/ayodamola-oyegbemi](https://linkedin.com/in/ayodamola-oyegbemi)
-- **Location:** Lagos, Nigeria (GMT+1) | Open to global remote opportunities
+- Open to global remote opportunities
 - **Portfolio:** [View My Work](https://drive.google.com/drive/folders/1end_H-9mjQAWe9Jkn27P9wvjw4VH94cy?usp=sharing)
 
 ## 🤝 Open to Collaboration
@@ -59,4 +59,4 @@ I'm actively seeking opportunities to collaborate on:
 
 ---
 
-*"Quality is not an act, it is a habit."* – Aristotle
+*"Quality is not an act, it is a habit."* –------- Aristotle
